@@ -1,0 +1,1 @@
+grauCelsius = int(input("Digite a temperatura em celsius:"))
